@@ -1,0 +1,75 @@
+h2 , h1  {font-family: 'Courier New', Courier, monospace; font-size: 25px; color: black;}
+
+.footer {position: fixed;
+
+         bottom: 0px;
+         height: 80px;
+         left: 0;
+         width: 100%;
+         background-color: #0378c5;
+         border-top: solid 1px #ef0f0f;
+         border-bottom: solid 1px #ef0f0f;
+         text-align: center;
+        color: white;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 17px;} --------cabeçalho
+
+.menu-h {background-color: #0378c5;
+                border-top: solid 1px #ef0f0f;
+                border-bottom: solid 1px #ef0f0f;}
+
+                body {
+                    background-color: #b2d9ec;
+                    margin-left: 0;
+                }
+        
+                #menu-h {
+                    background-color: #0378c5;
+                    border-top: solid 1px #ef0f0f;
+                    border-bottom: solid 1px #ef0f0f;
+                }
+        
+                a {
+                    font-size: 18px;
+                    font-family: 'Courier New', Courier, monospace;
+                }
+        
+                #menu-h ul {
+                    max-width: 95%;
+                    list-style: none;
+                }
+        
+                #menu-h ul li {
+                    display: inline;
+                }
+        
+                #menu-h ul li a {
+                    color: #FFF;
+                    padding: 10px;
+                    display: inline-block;
+                    text-decoration: none;
+                }
+        
+                #menu-h ul li a :hover {
+                    background-color: rgb(0, 77, 155);
+                    
+                }
+        
+                #menu-h ul li:last-child a {
+                    background-color: red;
+                    border-radius: 10cm;
+                    float: right;
+                }
+                .logincontainer {
+                    width: 600px;
+                    padding: 3% 0 0;
+                    margin: auto;
+                  }
+
+                
+                .logincontainer .form .login{
+                  margin-top: -38px;
+                margin-bottom: 26px;
+                }
+
+                
